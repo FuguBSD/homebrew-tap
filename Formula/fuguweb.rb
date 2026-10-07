@@ -1,8 +1,8 @@
 class Fuguweb < Formula
   desc "Build a documentation website for a Perl project"
   homepage "https://web.fugubsd.org/"
-  url "https://github.com/FuguBSD/FuguWeb/releases/download/v0.7.0/App-FuguWeb-0.7.0.tar.gz"
-  sha256 "e30ec138df95164a2096f9a0b8eb0acdfbcbafedadb4e7971fda551b712b3724"
+  url "https://github.com/FuguBSD/FuguWeb/releases/download/v0.7.1/App-FuguWeb-0.7.1.tar.gz"
+  sha256 "fb1acfe541ac9b6f7ecd0ce93efe9a9946a01560410c37c60c24c0a6b65d8881"
   license "ISC"
 
   depends_on "fugubsd/tap/fugu"
