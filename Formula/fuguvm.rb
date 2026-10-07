@@ -1,8 +1,8 @@
 class Fuguvm < Formula
   desc "Install and manage OpenBSD virtual machines under QEMU"
   homepage "https://vm.fugubsd.org/"
-  url "https://github.com/FuguBSD/FuguVM/releases/download/v0.3.0/App-FuguVM-0.3.0.tar.gz"
-  sha256 "7fbf47dc543f9aef02602f9966ff008dbc8409e007095eb68eb5d649f83e1441"
+  url "https://github.com/FuguBSD/FuguVM/releases/download/v0.3.1/App-FuguVM-0.3.1.tar.gz"
+  sha256 "27682e5dd5c0b9bd0e7b362f2841c46a152aebd10d54e10905c3547113057e8d"
   license "ISC"
 
   depends_on "expect"
