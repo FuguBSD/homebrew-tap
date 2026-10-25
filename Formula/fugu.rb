@@ -1,8 +1,8 @@
 class Fugu < Formula
   desc "OpenBSD-style daemon utilities for Perl"
   homepage "https://lib.fugubsd.org/"
-  url "https://github.com/FuguBSD/Fugu/releases/download/v0.5.3/Fugu-0.5.3.tar.gz"
-  sha256 "d9c45ca527afa7914f661cf8b59510e137709400e4fb05455deb37ccfd162b46"
+  url "https://github.com/FuguBSD/Fugu/releases/download/v0.5.4/Fugu-0.5.4.tar.gz"
+  sha256 "8a2b62253217f9d340971225267291b2794fa088d3d38c5c075302edfeaf4b31"
   license "ISC"
 
   depends_on "perl"
